@@ -205,7 +205,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #151515;
+  color: #ffffff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #ffffff;
+  color: #878787;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
