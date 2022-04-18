@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #151515;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #ffffff;
+  color: rgb(47, 58, 138);
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #878787;
+  color: rgb(47, 58, 138);
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
